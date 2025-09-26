@@ -1,4 +1,4 @@
 # apollo
 
-ccid for lab4 submission: 
+ccid: 
 essak
